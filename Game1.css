@@ -1,0 +1,68 @@
+body
+{
+	background: red;
+	text-align: center;
+	
+}
+
+	.login_div1 
+	{
+		background: #00f5d4;
+		padding: 10px;
+		height: 43vh;
+		
+		border-radius: 15px;
+		margin-right: 50px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+
+	}
+
+	.login_div2
+	{
+		background: #00f5d4;
+		padding: 10px;
+		height: 43vh;
+		
+		border-radius: 15px;
+		margin-right: 30px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		
+	}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+input
+{
+	padding: 5px;
+	border: none;
+	border-radius: 4px;
+
+}
+
+button
+{
+	margin-top: 20px;
+}
